@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="6" time="0.507">
+<testcase classname="Using of tags in Cucumber" name="Scenario1" time="0.085">
+<system-out><![CDATA[Given this  is scenario1....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Using of tags in Cucumber" name="Scenario2" time="0.002">
+<system-out><![CDATA[Given this  is scenario2....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Using of tags in Cucumber" name="Scenario3" time="0.004">
+<system-out><![CDATA[Given this  is scenario3....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Using of tags in Cucumber" name="Scenario4" time="0.003">
+<system-out><![CDATA[Given this  is scenario4....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Using of tags in Cucumber" name="Scenario5" time="0.001">
+<system-out><![CDATA[Given this  is scenario5....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Using of tags in Cucumber" name="Scenario6" time="0.002">
+<system-out><![CDATA[Given this  is scenario6....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

@@ -1,0 +1,201 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-04-21T10:53:15.940Z",
+        "line": 5,
+        "name": "Scenario1",
+        "description": "",
+        "id": "using-of-tags-in-cucumber;scenario1",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "this  is scenario1",
+            "match": {
+              "location": "com.stepDefinition.TagsDemo.this_is_scenario1()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@FunctionalTest"
+          },
+          {
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-04-21T10:53:16.033Z",
+        "line": 9,
+        "name": "Scenario2",
+        "description": "",
+        "id": "using-of-tags-in-cucumber;scenario2",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "this  is scenario2",
+            "match": {
+              "location": "com.stepDefinition.TagsDemo.this_is_scenario2()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@FunctionalTest"
+          },
+          {
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-04-21T10:53:16.043Z",
+        "line": 13,
+        "name": "Scenario3",
+        "description": "",
+        "id": "using-of-tags-in-cucumber;scenario3",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "this  is scenario3",
+            "match": {
+              "location": "com.stepDefinition.TagsDemo.this_is_scenario3()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@FunctionalTest"
+          },
+          {
+            "name": "@SanityTest"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-04-21T10:53:16.049Z",
+        "line": 18,
+        "name": "Scenario4",
+        "description": "",
+        "id": "using-of-tags-in-cucumber;scenario4",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "this  is scenario4",
+            "match": {
+              "location": "com.stepDefinition.TagsDemo.this_is_scenario4()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@FunctionalTest"
+          },
+          {
+            "name": "@SmokeTest"
+          },
+          {
+            "name": "@SanityTest"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-04-21T10:53:16.054Z",
+        "line": 22,
+        "name": "Scenario5",
+        "description": "",
+        "id": "using-of-tags-in-cucumber;scenario5",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "this  is scenario5",
+            "match": {
+              "location": "com.stepDefinition.TagsDemo.this_is_scenario5()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@FunctionalTest"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-04-21T10:53:16.057Z",
+        "line": 25,
+        "name": "Scenario6",
+        "description": "",
+        "id": "using-of-tags-in-cucumber;scenario6",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "this  is scenario6",
+            "match": {
+              "location": "com.stepDefinition.TagsDemo.this_is_scenario6()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@FunctionalTest"
+          }
+        ]
+      }
+    ],
+    "name": "Using of tags in Cucumber",
+    "description": "",
+    "id": "using-of-tags-in-cucumber",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/TagsDemo.feature",
+    "tags": [
+      {
+        "name": "@FunctionalTest",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
